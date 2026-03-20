@@ -1,0 +1,44 @@
+#FORWARD PROPAGATION METHOD - ASSIGNMENT 1
+import numpy as np
+
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+
+# Inputs
+i1, i2 = 0.05, 0.10
+# Target Outputs
+target_o1, target_o2 = 0.01, 0.99
+
+# Weights and Biases (Layer 1)
+w1, w2, w3, w4 = 0.15, 0.20, 0.25, 0.30
+b1 = 0.35 # Standard in this example is 0.35, though you noted 0.3
+
+# Weights and Biases (Layer 2)
+w5, w6, w7, w8 = 0.40, 0.45, 0.50, 0.55
+b2 = 0.60
+
+# --- FORWARD PASS ---
+
+# 1. Hidden Layer Calculations
+net_h1 = (w1 * i1) + (w2 * i2) + b1
+out_h1 = sigmoid(net_h1)
+
+net_h2 = (w3 * i1) + (w4 * i2) + b1
+out_h2 = sigmoid(net_h2)
+
+# 2. Output Layer Calculations
+net_o1 = (w5 * out_h1) + (w6 * out_h2) + b2
+out_o1 = sigmoid(net_o1)
+
+net_o2 = (w7 * out_h1) + (w8 * out_h2) + b2
+out_o2 = sigmoid(net_o2)
+
+print(f"Output o1: {out_o1:.8f}")
+print(f"Output o2: {out_o2:.8f}")
+
+# 3. Calculate Total Error (Mean Squared Error)
+error_o1 = 0.5 * (target_o1 - out_o1)**2
+error_o2 = 0.5 * (target_o2 - out_o2)**2
+total_error = error_o1 + error_o2
+
+print(f"Total Error: {total_error:.8f}")
