@@ -7,7 +7,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Notebooks](https://img.shields.io/badge/Notebooks-6-00e5ff?style=for-the-badge)
-![Auto Updated](https://img.shields.io/badge/Auto_Updated-15_May_2026_07%3A10_UTC-blueviolet?style=for-the-badge)
+![Auto Updated](https://img.shields.io/badge/Auto_Updated-15_May_2026_07%3A37_UTC-blueviolet?style=for-the-badge)
 
 **A hands-on exploration of forward propagation, neural network architecture,**
 **and the mathematics that power modern AI — built from scratch.**
@@ -15,7 +15,7 @@
 [📓 Notebooks](#-notebooks) · [🔬 Concepts](#-concepts-covered) · [🚀 Get Started](#-getting-started) · [📂 Structure](#-repository-structure)
 
 > 🤖 _This README is **auto-generated** on every push via GitHub Actions._
-> Last updated: **15 May 2026 07:10 UTC**
+> Last updated: **15 May 2026 07:37 UTC**
 
 </div>
 
@@ -33,12 +33,12 @@
 
 | # | Notebook | Description | Colab | Tags | Last Updated |
 |:---:|----------|-------------|:-----:|------|:---:|
-| 1 | [**Forward Propogation Neural Network And Deep Learning**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/01_Forward_Propagation/forward-propogation%20Neural%20Network%20and%20Deep%20Learning.ipynb) | Notebook covering Forward Propogation Neural Network And Deep Learning. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/01_Forward_Propagation/forward-propogation%20Neural%20Network%20and%20Deep%20Learning.ipynb) | `forward-propagation` `deep-learning` `neural-network` `numpy` | 2 minutes ago |
-| 2 | [**Ann Hands On**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/02_ANN/ANN_Hands_on.ipynb) | Notebook covering Ann Hands On. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/02_ANN/ANN_Hands_on.ipynb) | `activation-functions` `loss-functions` `optimization` `training` `numpy` `keras` | 2 minutes ago |
-| 3 | [**Multi Input Neural Network Keras (1)**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/03_Functional_API/multi-input-neural-network-keras%20(1).ipynb) | Notebook covering Multi Input Neural Network Keras (1). | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/03_Functional_API/multi-input-neural-network-keras%20(1).ipynb) | `neural-network` `multi-output` `keras` `activation-functions` | 2 minutes ago |
-| 4 | [**Multi Output Neural Network Keras**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/03_Functional_API/multi-output-neural-network-keras.ipynb) | Notebook covering Multi Output Neural Network Keras. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/03_Functional_API/multi-output-neural-network-keras.ipynb) | `neural-network` `multi-output` `keras` `activation-functions` `tensorflow` | 2 minutes ago |
-| 5 | [****Importing the dataset with Data Augmentation****](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/04_CNN/alzheimer-dataset-used.ipynb) | With Batch Normalization, L2 regularization, Dropout | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/04_CNN/alzheimer-dataset-used.ipynb) | `medical-imaging` `CNN` `data-preprocessing` `activation-functions` `loss-functions` `optimization` | 2 minutes ago |
-| 6 | [**U-Net Architecture for Brain Tumor Segmentation (BraTS)**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/04_CNN/unit-architecture-implementation-for-brain-tumor.ipynb) | Supports 2D and 3D modes. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/04_CNN/unit-architecture-implementation-for-brain-tumor.ipynb) | `forward-propagation` `loss-functions` `optimization` `deep-learning` `multi-output` `training` | 2 minutes ago |
+| 1 | [**Forward Propogation Neural Network And Deep Learning**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/01_Forward_Propagation/forward-propogation%20Neural%20Network%20and%20Deep%20Learning.ipynb) | Notebook covering Forward Propogation Neural Network And Deep Learning. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/01_Forward_Propagation/forward-propogation%20Neural%20Network%20and%20Deep%20Learning.ipynb) | `forward-propagation` `deep-learning` `neural-network` `numpy` | 22 seconds ago |
+| 2 | [**Ann Hands On**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/02_ANN/ANN_Hands_on.ipynb) | Notebook covering Ann Hands On. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/02_ANN/ANN_Hands_on.ipynb) | `activation-functions` `loss-functions` `optimization` `training` `numpy` `keras` | 22 seconds ago |
+| 3 | [**Multi Input Neural Network Keras (1)**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/03_Functional_API/multi-input-neural-network-keras%20(1).ipynb) | Notebook covering Multi Input Neural Network Keras (1). | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/03_Functional_API/multi-input-neural-network-keras%20(1).ipynb) | `neural-network` `multi-output` `keras` `activation-functions` | 22 seconds ago |
+| 4 | [**Multi Output Neural Network Keras**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/03_Functional_API/multi-output-neural-network-keras.ipynb) | Notebook covering Multi Output Neural Network Keras. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/03_Functional_API/multi-output-neural-network-keras.ipynb) | `neural-network` `multi-output` `keras` `activation-functions` `tensorflow` | 22 seconds ago |
+| 5 | [****Importing the dataset with Data Augmentation****](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/04_CNN/alzheimer-dataset-used.ipynb) | With Batch Normalization, L2 regularization, Dropout | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/04_CNN/alzheimer-dataset-used.ipynb) | `medical-imaging` `CNN` `data-preprocessing` `activation-functions` `loss-functions` `optimization` | 22 seconds ago |
+| 6 | [**U-Net Architecture for Brain Tumor Segmentation (BraTS)**](https://github.com/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/04_CNN/unit-architecture-implementation-for-brain-tumor.ipynb) | Supports 2D and 3D modes. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vineetm1204-m/Deep-Learning-And-Neural-Network/blob/main/04_CNN/unit-architecture-implementation-for-brain-tumor.ipynb) | `forward-propagation` `loss-functions` `optimization` `deep-learning` `multi-output` `training` | 22 seconds ago |
 
 ---
 
@@ -144,5 +144,5 @@ If this helped you understand deep learning fundamentals, drop a star!
 ---
 
 <div align="center">
-  <sub>🤖 Auto-generated by <code>generate_readme.py</code> · 15 May 2026 07:10 UTC · <a href='https://github.com/vineetm1204-m'>Vineet Mittal</a> · Amity University, Gwalior</sub>
+  <sub>🤖 Auto-generated by <code>generate_readme.py</code> · 15 May 2026 07:37 UTC · <a href='https://github.com/vineetm1204-m'>Vineet Mittal</a> · Amity University, Gwalior</sub>
 </div>
